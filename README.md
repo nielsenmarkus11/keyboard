@@ -88,7 +88,7 @@ int C6 = ; //Eighth button on pin _?
 ```
 int E = 11;
 ```
-Note: Even though the Arduino Pin is labelled "~11", there is no need to inlude the "~" character.
+Note: Even though the Arduino Pin is labelled "\~11", there is no need to inlude the "\~" character.
 
 2. You'll notice there are several lines of code that contain a function like the one below. The `5` represents the Arduino pin label that is connected to your speaker. Make sure this matches the pin that is actually connected to the speaker.
 ```
